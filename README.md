@@ -1,7 +1,7 @@
 # streamlit_docker_logging_example
 An example of using streamlit with logging with docker.
 
-![log.JPG](log.jpg)
+![image](https://user-images.githubusercontent.com/44586585/119660221-abd0d200-be37-11eb-8174-a36321fb3c79.png)
 
 ### High Level:
 Due the fact that streamlit does not allow us at this point to use "logging" and save it inside a file, i've found a workaround.
