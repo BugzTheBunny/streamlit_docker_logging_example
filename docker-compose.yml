@@ -1,0 +1,8 @@
+version: "3"
+services:
+  tool:
+    build: .
+    image: logging_example:0.1
+    container_name: log_ex
+    ports:
+      - "8501:8501"
